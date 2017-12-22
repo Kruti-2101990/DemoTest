@@ -1,2 +1,3 @@
 # DemoTest
-Demo project
+Demo project for testing puposes
+
